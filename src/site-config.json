@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Interior Power Contracting LLC",
+    "phone": "+17576209997",
+    "category": "carpenter",
+    "city": "Virginia Beach",
+    "state": "VA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Crafting Virginia Beach, One Project at a Time",
+      "heroSubline": "Interior Power Contracting LLC delivers unparalleled carpentry services across Virginia Beach. From custom builds to essential repairs, we're the team you can depend on.",
+      "aboutTitle": "Built on Craftsmanship, Powered by Integrity",
+      "aboutText": [
+        "Interior Power Contracting LLC started with a simple mission: to bring superior carpentry to Virginia Beach and surrounding communities. Founded by a master carpenter with deep roots in the area, we understand the unique needs of coastal Virginia homes.",
+        "We believe in doing things right the first time, every time. Our approach combines time-tested techniques with modern solutions, ensuring durable and beautiful results. We prioritize clear communication, honest pricing, and unwavering commitment to quality.",
+        "We're not just building structures, we're building relationships. We actively support local initiatives and strive to be a positive force in the Virginia Beach community. We understand the impact of our work and take pride in contributing to the area's growth and beauty."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Years of experience delivering exceptional carpentry results."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Understanding Virginia Beach's unique climate and housing styles."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "On time, on budget, and dedicated to your satisfaction."
+        },
+        {
+          "title": "Clear Communication",
+          "description": "Keeping you informed every step of the way."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Space?",
+      "ctaSubline": "Contact Interior Power Contracting LLC today for a free consultation and let's discuss your project."
+    },
+    "services": [
+      {
+        "slug": "custom-cabinetry",
+        "name": "Custom Cabinetry",
+        "shortDescription": "Elevate your home with handcrafted, bespoke cabinetry solutions.",
+        "description": "Transform your kitchen, bathroom, or any room with custom cabinetry tailored to your exact needs and style. At Interior Power Contracting LLC, we design, build, and install cabinets that are both beautiful and functional. We work with a variety of woods and finishes to create unique pieces that complement your home's aesthetic.\n\nOur experienced craftsmen pay meticulous attention to detail, ensuring precise measurements and flawless execution. We understand the challenges of coastal Virginia homes, including humidity and salt air, and use materials and techniques that withstand the elements. Whether you're looking for sleek modern designs or classic traditional styles, we can bring your vision to life.\n\nFrom initial consultation to final installation, we'll guide you through the entire process, providing expert advice and clear communication. We handle everything from design and fabrication to delivery and installation, ensuring a seamless and stress-free experience. Invest in custom cabinetry and add lasting value and beauty to your Virginia Beach home.",
+        "process": [
+          "Step 1: Initial Consultation and Design",
+          "Step 2: Material Selection and Fabrication",
+          "Step 3: Precise Installation",
+          "Step 4: Finishing Touches and Quality Check"
+        ],
+        "benefits": [
+          "Maximize space and organization",
+          "Enhance the aesthetic appeal of your home",
+          "Increase property value",
+          "Create personalized storage solutions"
+        ],
+        "faq": [
+          {
+            "question": "What types of wood do you use for custom cabinets?",
+            "answer": "We work with a variety of hardwoods, including oak, maple, cherry, and walnut, as well as durable plywood options. The best choice depends on your budget, desired look, and the specific application."
+          },
+          {
+            "question": "How long does it take to complete a custom cabinet project?",
+            "answer": "The timeline varies depending on the complexity of the design and the size of the project. We'll provide a detailed estimate with a projected completion date during the initial consultation."
+          },
+          {
+            "question": "Do you offer cabinet refinishing or repairs?",
+            "answer": "Yes, we offer cabinet refinishing and repair services to restore and update existing cabinetry. Contact us to assess the condition of your cabinets and discuss your options."
+          }
+        ]
+      },
+      {
+        "slug": "deck-building-repair",
+        "name": "Deck Building & Repair",
+        "shortDescription": "Build your dream outdoor living space or restore your existing deck.",
+        "description": "Maximize your enjoyment of Virginia Beach's beautiful weather with a custom-built deck or expert deck repair services from Interior Power Contracting LLC. We specialize in creating outdoor spaces that are both functional and aesthetically pleasing, designed to withstand the unique challenges of the coastal environment.\n\nWe offer a wide range of decking materials, including pressure-treated wood, composite decking, and exotic hardwoods. Our team will help you choose the best option for your budget, style preferences, and maintenance requirements. We handle all aspects of deck construction, from framing and decking to railings and stairs.\n\nIf your existing deck is showing signs of wear and tear, we can provide expert repair services to restore its safety and beauty. We address common issues such as rotted wood, loose railings, and damaged decking. Protect your investment and ensure your deck is safe and enjoyable for years to come. We know the salt air in Virginia Beach can be brutal, so we know how to combat it!",
+        "process": [
+          "Step 1: Site Assessment and Design",
+          "Step 2: Material Selection and Permitting",
+          "Step 3: Construction or Repair",
+          "Step 4: Final Inspection and Finishing"
+        ],
+        "benefits": [
+          "Increase outdoor living space",
+          "Enhance property value",
+          "Create a relaxing environment",
+          "Improve safety and functionality"
+        ],
+        "faq": [
+          {
+            "question": "What type of decking material is best for Virginia Beach?",
+            "answer": "Composite decking is a popular choice due to its durability and resistance to moisture and insects. Pressure-treated wood is a more affordable option, but requires regular maintenance."
+          },
+          {
+            "question": "Do I need a permit to build a deck in Virginia Beach?",
+            "answer": "Yes, a building permit is typically required for new deck construction. We can assist with the permitting process to ensure compliance with local regulations."
+          },
+          {
+            "question": "How often should I seal or stain my wood deck?",
+            "answer": "We recommend sealing or staining your wood deck every 1-2 years to protect it from the elements and prevent rot and decay."
+          }
+        ]
+      },
+      {
+        "slug": "framing-services",
+        "name": "Framing Services",
+        "shortDescription": "Solid framing: the backbone of your construction project, done right.",
+        "description": "Interior Power Contracting LLC provides expert framing services for residential and commercial projects in Virginia Beach. We understand that the framing is the foundation of any structure, and we are committed to providing precise and reliable workmanship. Our skilled carpenters have years of experience in all types of framing, including wood framing, steel framing, and light-gauge steel framing.\n\nWe work closely with builders, contractors, and homeowners to ensure that the framing meets all specifications and building codes. We use only high-quality materials and advanced techniques to ensure the structural integrity and longevity of your project. Whether you're building a new home, adding an addition, or remodeling an existing space, you can trust us to deliver exceptional framing services.\n\nFrom initial layout to final inspection, we pay meticulous attention to detail and adhere to strict quality control standards. We understand the importance of accuracy and precision in framing, and we are dedicated to providing results that exceed your expectations.",
+        "process": [
+          "Step 1: Blueprint Review and Layout",
+          "Step 2: Material Procurement and Preparation",
+          "Step 3: Framing Construction",
+          "Step 4: Inspection and Quality Assurance"
+        ],
+        "benefits": [
+          "Ensures structural integrity",
+          "Provides a solid foundation for construction",
+          "Meets all building codes and regulations",
+          "Increases property value"
+        ],
+        "faq": [
+          {
+            "question": "What type of framing is best for my project?",
+            "answer": "The best type of framing depends on several factors, including the size and scope of the project, the budget, and the local building codes. We can help you determine the most suitable option for your needs."
+          },
+          {
+            "question": "How long does it take to frame a house?",
+            "answer": "The timeline varies depending on the size and complexity of the house. We'll provide a detailed estimate with a projected completion date during the initial consultation."
+          },
+          {
+            "question": "Do you handle the permitting process for framing?",
+            "answer": "We can assist with the permitting process to ensure compliance with local regulations. We're familiar with Virginia Beach's specific requirements."
+          }
+        ]
+      },
+      {
+        "slug": "door-window-installation",
+        "name": "Door & Window Installation",
+        "shortDescription": "Upgrade your home with professionally installed doors and windows.",
+        "description": "Enhance the energy efficiency, security, and aesthetics of your Virginia Beach home with professional door and window installation services from Interior Power Contracting LLC. We offer a wide selection of doors and windows in various styles, materials, and finishes to complement your home's architecture and your personal taste.\n\nOur experienced installers are skilled in all types of door and window installations, including entry doors, patio doors, sliding doors, casement windows, double-hung windows, and more. We use precise techniques and high-quality materials to ensure a perfect fit and long-lasting performance. We understand the importance of proper insulation and weatherproofing to protect your home from the elements and reduce energy costs.\n\nWhether you're replacing old, drafty windows or installing new doors as part of a remodeling project, we can provide expert guidance and reliable service. We handle all aspects of the installation process, from removing the old units to installing the new ones and ensuring a seamless finish. Upgrade your home's curb appeal and energy efficiency with new doors and windows from Interior Power Contracting LLC.",
+        "process": [
+          "Step 1: Consultation and Product Selection",
+          "Step 2: Precise Measurements and Ordering",
+          "Step 3: Professional Installation",
+          "Step 4: Caulking & Weather Sealing"
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Enhanced security",
+          "Increased property value",
+          "Enhanced curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "What type of windows are best for energy efficiency?",
+            "answer": "Low-E windows with argon gas filling are highly energy-efficient and can significantly reduce heat transfer. We can help you choose the best windows for your specific needs and budget."
+          },
+          {
+            "question": "How long does it take to install new windows?",
+            "answer": "The timeline varies depending on the number of windows and the complexity of the installation. We'll provide a detailed estimate with a projected completion date during the initial consultation."
+          },
+          {
+            "question": "Do you offer window repair services?",
+            "answer": "We primarily focus on window replacement, but we can assess the condition of your windows and recommend the best course of action."
+          }
+        ]
+      },
+      {
+        "slug": "trim-molding-installation",
+        "name": "Trim & Molding Installation",
+        "shortDescription": "Add the perfect finishing touch with professionally installed trim and molding.",
+        "description": "Elevate the style and sophistication of your Virginia Beach home with expertly installed trim and molding from Interior Power Contracting LLC. We offer a wide range of trim and molding options to enhance any room, from classic crown molding to modern baseboards and door casings.\n\nOur skilled carpenters have a keen eye for detail and a passion for creating beautiful and seamless finishes. We work with a variety of materials, including wood, MDF, and PVC, to match your style and budget. We handle all aspects of the installation process, from precise measurements and cutting to secure fastening and caulking.\n\nWhether you're looking to add a touch of elegance to your living room, create a cozy atmosphere in your bedroom, or enhance the functionality of your kitchen, we can provide expert guidance and reliable service. Transform your home with the perfect finishing touches from Interior Power Contracting LLC.",
+        "process": [
+          "Step 1: Consultation and Design",
+          "Step 2: Material Selection and Preparation",
+          "Step 3: Precise Cutting and Installation",
+          "Step 4: Caulking and Finishing"
+        ],
+        "benefits": [
+          "Adds elegance and sophistication",
+          "Enhances the architectural details of your home",
+          "Increases property value",
+          "Provides a clean and finished look"
+        ],
+        "faq": [
+          {
+            "question": "What type of trim and molding is best for my home?",
+            "answer": "The best type of trim and molding depends on your home's style, your personal taste, and your budget. We can help you choose the perfect options to complement your decor."
+          },
+          {
+            "question": "How long does it take to install trim and molding?",
+            "answer": "The timeline varies depending on the size of the project and the complexity of the installation. We'll provide a detailed estimate with a projected completion date during the initial consultation."
+          },
+          {
+            "question": "Can you match existing trim and molding?",
+            "answer": "Yes, we can match existing trim and molding to ensure a seamless and consistent look throughout your home."
+          }
+        ]
+      },
+      {
+        "slug": "general-carpentry",
+        "name": "General Carpentry",
+        "shortDescription": "Your trusted partner for all your carpentry needs.",
+        "description": "Interior Power Contracting LLC offers comprehensive general carpentry services to homeowners and businesses in Virginia Beach and surrounding areas. From minor repairs to major renovations, we have the skills and experience to handle any carpentry project.\n\nOur skilled carpenters are proficient in all aspects of carpentry, including framing, roofing, siding, flooring, and more. We use high-quality materials and advanced techniques to ensure durable and long-lasting results. We are committed to providing exceptional workmanship and outstanding customer service.\n\nWhether you need a leaky roof repaired, a new floor installed, or a custom storage solution built, you can count on us to deliver reliable and affordable carpentry services. We are your one-stop shop for all your carpentry needs. We understand the impact of salt and wind on Virginia Beach homes, and can make recommendations to combat these elements.",
+        "process": [
+          "Step 1: Project Assessment and Planning",
+          "Step 2: Material Procurement",
+          "Step 3: Carpentry Work",
+          "Step 4: Quality Check and Cleanup"
+        ],
+        "benefits": [
+          "Reliable and affordable services",
+          "Exceptional workmanship",
+          "Comprehensive solutions",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What types of carpentry projects do you handle?",
+            "answer": "We handle a wide range of carpentry projects, including framing, roofing, siding, flooring, trim, and more. No job is too big or too small."
+          },
+          {
+            "question": "How much does it cost to hire a carpenter?",
+            "answer": "The cost of hiring a carpenter varies depending on the scope of the project. We'll provide a detailed estimate before starting any work."
+          },
+          {
+            "question": "Are you licensed and insured?",
+            "answer": "Yes, we are fully licensed and insured for your protection and peace of mind."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Virginia Beach",
+        "slug": "virginia-beach-va",
+        "state": "VA",
+        "content": "Interior Power Contracting LLC is proud to offer expert carpentry services to the residents and businesses of Virginia Beach, VA. From custom cabinetry and trim work to structural repairs and renovations, our skilled team is equipped to handle any carpentry project, big or small. We understand the unique needs of Virginia Beach homes and businesses, and we are committed to providing high-quality craftsmanship and exceptional customer service.\n\nWe are dedicated to serving the diverse neighborhoods of Virginia Beach, including Sandbridge, Chic's Beach, and Town Center. Whether you're looking to update your kitchen, create a custom built-in, or repair storm damage, Interior Power Contracting LLC is your trusted partner for all your carpentry needs in Virginia Beach. We pride ourselves on our attention to detail and our commitment to exceeding your expectations.",
+        "localContext": "Virginia Beach is a vibrant coastal city known for its beautiful beaches, lively boardwalk, and thriving military community. The area experiences a humid subtropical climate, which can impact building materials and require specialized carpentry solutions.",
+        "nearbyAreas": [
+          "Norfolk",
+          "Chesapeake",
+          "Portsmouth"
+        ]
+      },
+      {
+        "city": "Norfolk",
+        "slug": "norfolk-va",
+        "state": "VA",
+        "content": "Interior Power Contracting LLC extends its carpentry expertise to the historic city of Norfolk, VA. We provide a comprehensive range of carpentry services to homeowners and businesses throughout Norfolk, from Ghent to Ocean View. Our experienced carpenters are adept at working on various architectural styles, ensuring that all projects are completed to the highest standards.\n\nWhether you need custom shelving, deck repairs, or assistance with a renovation project, Interior Power Contracting LLC is here to help. We understand the unique challenges of working on older homes in Norfolk and are committed to preserving the city's architectural heritage while providing modern solutions. We value our customers and strive for excellence in every project, ensuring your satisfaction.",
+        "localContext": "Norfolk is a major naval base city with a rich history and diverse neighborhoods. The city's architecture reflects its maritime past, with many historic homes and buildings requiring specialized carpentry skills.",
+        "nearbyAreas": [
+          "Virginia Beach",
+          "Chesapeake",
+          "Portsmouth"
+        ]
+      },
+      {
+        "city": "Chesapeake",
+        "slug": "chesapeake-va",
+        "state": "VA",
+        "content": "Interior Power Contracting LLC is dedicated to providing top-notch carpentry services to the growing community of Chesapeake, VA. We offer a wide array of services, including framing, roofing, trim work, and custom builds. Our team is committed to delivering exceptional results and exceeding your expectations, no matter the size or complexity of the project.\n\nFrom Great Bridge to Deep Creek, we serve all areas of Chesapeake with professionalism and expertise. Whether you're building a new home, remodeling your existing space, or need repairs after a storm, Interior Power Contracting LLC is the right choice for all your carpentry needs. We focus on quality, efficiency, and customer satisfaction, making us a trusted partner in Chesapeake.",
+        "localContext": "Chesapeake is a diverse city known for its waterways, parks, and family-friendly atmosphere. The city experiences a mix of suburban and rural environments, requiring a range of carpentry expertise.",
+        "nearbyAreas": [
+          "Virginia Beach",
+          "Norfolk",
+          "Suffolk"
+        ]
+      },
+      {
+        "city": "Portsmouth",
+        "slug": "portsmouth-va",
+        "state": "VA",
+        "content": "Interior Power Contracting LLC proudly serves the historic city of Portsmouth, VA, with expert carpentry services. We are committed to providing top-quality craftsmanship and exceptional customer service to homeowners and businesses throughout the area. From Olde Towne to Churchland, we offer a full range of carpentry solutions to meet your needs.\n\nWhether you require custom cabinetry, deck repairs, or assistance with a historic renovation, Interior Power Contracting LLC is here to help. We understand the unique architectural character of Portsmouth and are dedicated to preserving its charm while providing modern solutions. We value our customers and strive for excellence in every project, ensuring your satisfaction.",
+        "localContext": "Portsmouth is a historic port city with a strong naval tradition and a charming downtown area. The city's architecture reflects its rich history, with many historic homes and buildings requiring specialized carpentry skills.",
+        "nearbyAreas": [
+          "Norfolk",
+          "Chesapeake",
+          "Suffolk"
+        ]
+      },
+      {
+        "city": "Suffolk",
+        "slug": "suffolk-va",
+        "state": "VA",
+        "content": "Interior Power Contracting LLC extends its exceptional carpentry services to the growing city of Suffolk, VA. We offer a comprehensive range of services, including framing, roofing, trim work, and custom builds, tailored to meet the diverse needs of Suffolk's residents and businesses. Our team is committed to delivering outstanding results and exceeding your expectations, regardless of the project size or complexity.\n\nFrom downtown Suffolk to the rural areas of Driver and Whaleyville, we serve all parts of the city with professionalism and expertise. Whether you're constructing a new home, renovating your existing space, or need repairs following a storm, Interior Power Contracting LLC is the ideal choice for all your carpentry requirements. We prioritize quality, efficiency, and customer satisfaction, making us a reliable partner in Suffolk.",
+        "localContext": "Suffolk is a large, diverse city with a mix of urban and rural areas. The city's economy is driven by agriculture, manufacturing, and logistics, creating a unique set of construction and carpentry needs.",
+        "nearbyAreas": [
+          "Chesapeake",
+          "Portsmouth",
+          "Franklin"
+        ]
+      },
+      {
+        "city": "Newport News",
+        "slug": "newport-news-va",
+        "state": "VA",
+        "content": "Interior Power Contracting LLC is pleased to offer our expert carpentry services to the residents and businesses of Newport News, VA. We provide a wide range of carpentry solutions, from custom cabinetry and trim work to structural repairs and renovations. Our skilled team is equipped to handle any project, big or small, with precision and care.\n\nWe are dedicated to serving the diverse neighborhoods of Newport News, including the historic downtown area and the bustling City Center. Whether you're looking to update your kitchen, create a custom built-in, or repair storm damage, Interior Power Contracting LLC is your trusted partner for all your carpentry needs in Newport News. Our attention to detail and commitment to exceeding your expectations set us apart.",
+        "localContext": "Newport News is a city with a strong maritime history and a thriving shipbuilding industry. The area's climate and coastal location can present unique challenges for carpentry projects, requiring specialized knowledge and techniques.",
+        "nearbyAreas": [
+          "Hampton",
+          "Poquoson",
+          "Williamsburg"
+        ]
+      },
+      {
+        "city": "Hampton",
+        "slug": "hampton-va",
+        "state": "VA",
+        "content": "Interior Power Contracting LLC provides top-quality carpentry services to the historic city of Hampton, VA. We are committed to delivering exceptional craftsmanship and customer service to homeowners and businesses throughout the area. From Buckroe Beach to Phoebus, we offer a comprehensive range of carpentry solutions to meet your needs.\n\nWhether you need custom shelving, deck repairs, or assistance with a renovation project, Interior Power Contracting LLC is here to help. We understand the unique architectural character of Hampton and are dedicated to preserving its charm while providing modern solutions. We value our customers and strive for excellence in every project, ensuring your satisfaction.",
+        "localContext": "Hampton is a historic city with a rich maritime heritage and a vibrant waterfront. The city's diverse neighborhoods and historic buildings require a range of carpentry skills and expertise.",
+        "nearbyAreas": [
+          "Newport News",
+          "Poquoson",
+          "Yorktown"
+        ]
+      },
+      {
+        "city": "Poquoson",
+        "slug": "poquoson-va",
+        "state": "VA",
+        "content": "Interior Power Contracting LLC is proud to offer expert carpentry services to the community of Poquoson, VA. We provide a wide range of carpentry solutions, from custom cabinetry and trim work to structural repairs and renovations. Our skilled team is equipped to handle any project, big or small, with precision and care.\n\nWe are dedicated to serving the residents and businesses of Poquoson with professionalism and integrity. Whether you're looking to update your kitchen, create a custom built-in, or repair storm damage, Interior Power Contracting LLC is your trusted partner for all your carpentry needs in Poquoson. Our attention to detail and commitment to exceeding your expectations set us apart.",
+        "localContext": "Poquoson is a coastal city known for its strong sense of community and its ties to the Chesapeake Bay. The area's coastal environment can present unique challenges for carpentry projects, requiring specialized knowledge and techniques.",
+        "nearbyAreas": [
+          "Hampton",
+          "Newport News",
+          "Yorktown"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Alice K.",
+        "rating": 5,
+        "service": "Custom Cabinetry",
+        "text": "Interior Power Contracting built beautiful custom cabinets for our kitchen remodel. The quality of the work is exceptional, and the team was a pleasure to work with. They listened to our needs and delivered exactly what we wanted. The new cabinets have completely transformed our kitchen!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "Bob M.",
+        "rating": 4,
+        "service": "Deck Repair",
+        "text": "Our deck was in rough shape after years of exposure to the Virginia Beach weather. Interior Power Contracting repaired the rotted wood, replaced the railings, and stained the entire deck. It looks brand new! I would recommend them to anyone needing deck work.",
+        "date": "2024-10-22"
+      },
+      {
+        "name": "Carol S.",
+        "rating": 5,
+        "service": "Door Installation",
+        "text": "We had Interior Power Contracting install a new front door and patio door. The installation was quick and professional, and the new doors look fantastic. We've already noticed a difference in our home's energy efficiency. Great work!",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Trim & Molding",
+        "text": "Interior Power Contracting added crown molding to our living room and dining room. The craftsmanship is impeccable, and the new molding has added so much character to our home. The team was professional, courteous, and cleaned up thoroughly after the job. We couldn't be happier!",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Framing Services",
+        "text": "Interior Power Contracting handled the framing for our home addition. The work was done quickly and efficiently, and the framing is solid and sturdy. We were impressed with their attention to detail and their commitment to quality. They were also good with communication.",
+        "date": "2024-07-05"
+      },
+      {
+        "name": "Frank T.",
+        "rating": 5,
+        "service": "General Carpentry",
+        "text": "I needed some general carpentry work done around my house, including repairing some damaged siding and replacing a few rotted boards. Interior Power Contracting did an excellent job. They were prompt, professional, and the price was fair. I highly recommend them!",
+        "date": "2024-06-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Interior Power Contracting LLC | Virginia Beach",
+        "description": "Expert carpentry services in Virginia Beach. Custom cabinets, decks, framing, doors, windows, trim. Call +17576209997."
+      },
+      "about": {
+        "title": "About Interior Power Contracting LLC",
+        "description": "Learn about Interior Power Contracting LLC, your trusted Virginia Beach carpenter. Craftsmanship, integrity, and local expertise."
+      },
+      "services": {
+        "title": "Carpentry Services | Interior Power Contracting LLC",
+        "description": "Comprehensive carpentry services in Virginia Beach. Custom cabinets, decks, framing, doors, windows, trim. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact Interior Power Contracting LLC",
+        "description": "Contact Interior Power Contracting LLC for expert carpentry services in Virginia Beach. Get a free consultation. Call +17576209997."
+      },
+      "reviews": {
+        "title": "Reviews | Interior Power Contracting LLC",
+        "description": "Read reviews of Interior Power Contracting LLC in Virginia Beach. See what our satisfied customers are saying about our carpentry services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Interior Power Contracting LLC",
+        "description": "Interior Power Contracting LLC provides carpentry services in Virginia Beach and surrounding areas. See our service area map."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "custom-cabinetry": "/images/service-custom-cabinetry.webp",
+      "deck-building-repair": "/images/service-deck-building-repair.webp",
+      "framing-services": "/images/service-framing-services.webp",
+      "door-window-installation": "/images/service-door-window-installation.webp",
+      "trim-molding-installation": "/images/service-trim-molding-installation.webp",
+      "general-carpentry": "/images/service-general-carpentry.webp"
+    },
+    "servicesResponsive": {
+      "custom-cabinetry": {
+        "src": "/images/service-custom-cabinetry.webp",
+        "srcset": "/images/service-custom-cabinetry-400w.webp 400w, /images/service-custom-cabinetry-800w.webp 800w, /images/service-custom-cabinetry-1200w.webp 1200w, /images/service-custom-cabinetry.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-building-repair": {
+        "src": "/images/service-deck-building-repair.webp",
+        "srcset": "/images/service-deck-building-repair-400w.webp 400w, /images/service-deck-building-repair-800w.webp 800w, /images/service-deck-building-repair-1200w.webp 1200w, /images/service-deck-building-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "framing-services": {
+        "src": "/images/service-framing-services.webp",
+        "srcset": "/images/service-framing-services-400w.webp 400w, /images/service-framing-services-800w.webp 800w, /images/service-framing-services-1200w.webp 1200w, /images/service-framing-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-window-installation": {
+        "src": "/images/service-door-window-installation.webp",
+        "srcset": "/images/service-door-window-installation-400w.webp 400w, /images/service-door-window-installation-800w.webp 800w, /images/service-door-window-installation-1200w.webp 1200w, /images/service-door-window-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "trim-molding-installation": {
+        "src": "/images/service-trim-molding-installation.webp",
+        "srcset": "/images/service-trim-molding-installation-400w.webp 400w, /images/service-trim-molding-installation-800w.webp 800w, /images/service-trim-molding-installation-1200w.webp 1200w, /images/service-trim-molding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "general-carpentry": {
+        "src": "/images/service-general-carpentry.webp",
+        "srcset": "/images/service-general-carpentry-400w.webp 400w, /images/service-general-carpentry-800w.webp 800w, /images/service-general-carpentry-1200w.webp 1200w, /images/service-general-carpentry.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
